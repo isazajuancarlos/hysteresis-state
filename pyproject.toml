@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "hysteresis-state"
-version = "0.1.0"
+version = "0.1.1"
 description = "Máquina de estados con histéresis por confirmación: un estado nuevo solo se commitea tras sostenerse N observaciones consecutivas. Anti-flapping para clasificadores ruidosos. Sin dependencias."
 readme = "README.md"
 requires-python = ">=3.9"
@@ -26,6 +26,7 @@ test = ["pytest>=7"]
 [project.urls]
 Homepage = "https://github.com/isazajuancarlos/hysteresis-state"
 Issues = "https://github.com/isazajuancarlos/hysteresis-state/issues"
+Blog = "https://xiliux.com/blog/anti-flapping-histeresis-clasificador-ruidoso"
 
 [tool.setuptools.packages.find]
 where = ["src"]
