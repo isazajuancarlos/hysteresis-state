@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: Apache-2.0
+# SPDX-FileCopyrightText: 2026 Juan Carlos Isaza Arenas
+
 """Tests de hysteresis-state. Sin dependencias."""
 import pytest
 

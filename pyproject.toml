@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.9"
 license = "Apache-2.0"
 license-files = ["LICENSE"]
-authors = [{ name = "Juan Carlos Isaza" }]
+authors = [{ name = "Juan Carlos Isaza Arenas", email = "isazajuancarlos@gmail.com" }]
 keywords = ["hysteresis", "debounce", "state-machine", "anti-flapping", "flapping", "signal", "smoothing", "classifier"]
 classifiers = [
     "Development Status :: 4 - Beta",

@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: Apache-2.0
+# SPDX-FileCopyrightText: 2026 Juan Carlos Isaza Arenas
+
 """hysteresis-state — una máquina de estados con histéresis por confirmación,
 para no dejar que un clasificador ruidoso haga *flapping*.
 
